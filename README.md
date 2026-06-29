@@ -18,12 +18,20 @@ Physics Engine
 - Restitution constant for controlling velocity attenuation on bounce
 - Normal force handling to keep spheres stable on plane surfaces
 
+- https://github.com/user-attachments/assets/f037b5ce-b594-4005-ac7f-c5ab4142e7b6
+- https://github.com/user-attachments/assets/ab0eb8cb-46c5-4388-941d-dd81d8b1f72f
+- https://github.com/user-attachments/assets/2f106a68-a5c1-4dd8-9c05-5ce5e8572e11
+- https://github.com/user-attachments/assets/08fe6f33-79aa-44f9-9bfb-e2ab28068bd0
+
 Maze Game
 
 - Player controlled sphere navigating a maze using the physics engine
 - Collectible pickup detection via sphere collider
 - Wall collisions via plane colliders
 - Sphere emitter system with configurable period, scale, and max sphere count
+
+https://github.com/user-attachments/assets/df0dafa1-03d1-4e80-99b8-3a0b7916a7a1
+
 
 Technical Details
 - Language: C#
@@ -34,5 +42,3 @@ Technical Details
 Scenes
 - SimTest — isolated physics engine testing with multiple collider configurations
 - MazeGame — full game integration with collectibles and end wall
-
-Screenshots
